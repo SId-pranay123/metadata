@@ -1,0 +1,9 @@
+{
+  "name":        "My Cool Token",
+  "symbol":      "MCT",
+  "description": "A demo SPL token for Wormhole NTT",
+  "image":       "https://raw.githubusercontent.com/SId-pranay123/metadata/main/test.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" }
+  ]
+}
